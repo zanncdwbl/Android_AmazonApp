@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light" />
+
+    <item name="colorPrimary" type="color">@color/darkGrey</item>
+    <item name="colorPrimaryVariant" type="color">@color/black</item>
+    <item name="colorOnPrimary" type="color">@color/darkGrey</item>
+
+</resources>

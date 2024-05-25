@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044781895159",
+    "project_id": "projectworkpcparts",
+    "storage_bucket": "projectworkpcparts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044781895159:android:d7cd778cd67bfa5e9072f2",
+        "android_client_info": {
+          "package_name": "com.example.projectworkpcparts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3c08IBdf_VuO4Mmo4BtoVedSSDLXQUZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
